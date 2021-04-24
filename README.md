@@ -23,3 +23,6 @@
 
 # Google Fonts: 
   Rubik
+
+# Screen: 
+ <img alt="homepages index" src="https://elements-cover-images-0.imgix.net/75119904-bad7-40ab-ba45-704fd358139a?auto=compress%2Cformat&fit=max&w=1370&s=7576ecf106f1e0f632767586a5eeb90a" />
