@@ -1,5 +1,3 @@
-# portfolio
-
 # 11 Premade Sections
   Portfolio content loading via Ajax</br>
   Parallax Moving</br>
