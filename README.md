@@ -1,6 +1,6 @@
 # portfolio
 
-#11 Premade Sections</br></br>
+>11 Premade Sections</br></br>
   Portfolio content loading via Ajax</br>
   Parallax Moving</br>
   Responsive Layout to Fit Any Screen Size</br>
@@ -13,7 +13,7 @@
   Fully compatible for all major browsers</br>
   Well Documented</br>
 
-Included HTML files:
+>Included HTML files:
 
   index.html – Main (home) file with all sections (Homes, Services, Portfolio…)</br>
   portfolio-1.html</br>
